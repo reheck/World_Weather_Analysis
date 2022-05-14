@@ -1,0 +1,62 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+25,Dentsville,US,73.42,clear sky,34.064,-80.9582,Columbia Northeast Hotel
+28,Puerto Ayora,EC,71.55,scattered clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+34,Corby,GB,70.83,clear sky,52.4964,-0.6894,Hampton by Hilton Corby/Kettering
+48,Chillicothe,US,73.99,clear sky,39.3331,-82.9824,Holiday Inn Express Chillicothe East
+53,Lompoc,US,72.01,scattered clouds,34.6391,-120.4579,"Holiday Inn Express Lompoc, an IHG Hotel"
+54,Pavlodar,KZ,75.0,scattered clouds,52.3,76.95,Sary Arka
+63,Vaini,TO,71.76,broken clouds,-21.2,-175.2,Keleti Beach Resort
+75,Taunggyi,MM,70.47,broken clouds,20.7833,97.0333,True Treasure Hotel
+95,Jamestown,US,72.99,overcast clouds,42.097,-79.2353,Hampton Inn & Suites Jamestown
+105,Hilo,US,71.26,light rain,19.7297,-155.09,Hilo Hawaiian Hotel
+111,Kapaa,US,73.72,overcast clouds,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+117,Hervey Bay,AU,73.02,few clouds,-25.2986,152.8535,Shelly Bay Resort
+124,Souillac,MU,74.37,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+171,Kahului,US,74.84,clear sky,20.8947,-156.47,Maui Seaside Hotel
+185,Santa Maria Do Suacui,BR,73.02,overcast clouds,-18.1903,-42.4142,Hotel Vale Verde
+214,Shelburne,CA,74.23,clear sky,44.0787,-80.2041,The Retreat at the Farm
+241,Isangel,VU,74.93,overcast clouds,-19.55,169.2667,Tanna Lodge
+261,San Clemente,US,70.75,overcast clouds,33.427,-117.612,Casablanca Inn
+279,Korla,CN,73.38,clear sky,41.7597,86.1469,Gulisitan Hotel
+298,Freeport,US,71.96,mist,40.6576,-73.5832,The Freeport Inn and Marina
+301,Ilhabela,BR,74.07,scattered clouds,-23.7781,-45.3581,Ilha Flat Hotel
+306,Bridlington,GB,70.9,overcast clouds,54.0831,-0.1919,Expanse Bridlington Seafront Hotel
+326,Republic,US,73.87,clear sky,37.12,-93.4802,AmericInn by Wyndham Republic
+330,Norwich,GB,73.02,few clouds,52.6278,1.2983,Holiday Inn Norwich City
+345,Emerald,AU,70.34,scattered clouds,-23.5333,148.1667,The Irish Village
+355,Hastings,GB,70.79,clear sky,50.8552,0.5729,Zanzibar Hotel
+358,Los Llanos De Aridane,ES,71.35,broken clouds,28.6585,-17.9182,Valle Aridane
+366,Lewistown,US,72.12,overcast clouds,40.5992,-77.5714,Quality Inn & Suites
+371,Lasa,IT,71.69,few clouds,46.6166,10.7002,Pension Feldgärtenhof
+385,Umkomaas,ZA,71.6,light rain,-30.2067,30.7978,The Norwegian Lodge
+386,Tabuk,PH,73.63,overcast clouds,17.4189,121.4443,Golden Berries Hotel and Convention
+387,Alofi,NU,71.49,overcast clouds,-19.0595,-169.9187,Taloa Heights
+391,Vao,NC,73.26,overcast clouds,-22.6667,167.4833,Hotel Kou-Bugny
+412,Broome,US,74.7,few clouds,42.2506,-75.833,Chenango Valley State Park
+418,Atherton,GB,70.05,overcast clouds,53.5237,-2.4935,The Mercury Motel
+441,Richards Bay,ZA,70.52,overcast clouds,-28.783,32.0377,BON Hotel Waterfront Richards Bay
+454,Khandbari,NP,73.18,broken clouds,27.3747,87.2039,Sainik Hotel And Lodge
+461,Foshan,CN,73.44,light rain,23.0268,113.1315,Crowne Plaza Foshan
+470,Miandoab,IR,73.78,clear sky,36.9694,46.1027,هتل برنجیان
+479,Port Hedland,AU,73.45,clear sky,-20.3167,118.5667,The Esplanade Hotel
+484,Goderich,CA,73.72,clear sky,43.7501,-81.7165,Harmony Inn
+496,Coolum Beach,AU,73.11,scattered clouds,-26.5333,153.1,Coolum Beach Resort
+500,Torres,BR,70.83,broken clouds,-29.3353,-49.7269,Farol Hotel
+504,Itoman,JP,74.17,light intensity shower rain,26.1247,127.6694,Southern Beach Hotel & Resort Okinawa
+505,Voh,NC,71.51,overcast clouds,-20.9667,164.7,Le gîte du Koniambo
+519,Koumac,NC,73.74,overcast clouds,-20.5667,164.2833,Le Monitel
+550,Cap Malheureux,MU,74.46,clear sky,-19.9842,57.6142,Pereybere Hotel & Spa
+555,Aleksandrovskoye,RU,73.15,scattered clouds,44.7142,43.0008,Mini hotel Tranzit
+556,Hot Springs,US,74.32,scattered clouds,34.5037,-93.0552,Embassy Suites by Hilton Hot Springs Hotel & Spa
+559,Kiunga,PG,73.8,overcast clouds,-6.1219,141.2906,Airport Lodge Kiunga
+561,River Falls,US,71.98,clear sky,44.8614,-92.6238,Radisson Hotel River Falls
+576,Mvuma,ZW,72.72,clear sky,-19.2792,30.5283,Nyangombe Backpackers
+597,Ahuimanu,US,74.91,moderate rain,21.4447,-157.8378,Paradise Bay Resort
+602,Devavanya,HU,70.54,overcast clouds,47.0333,20.9667,Déva Vendégház
+613,Berlin,DE,70.0,clear sky,52.5244,13.4105,Hotel Motel One Berlin-Hackescher Markt
+633,Pineville,US,74.93,overcast clouds,31.3224,-92.4343,"Country Inn & Suites by Radisson, Pineville, LA"
+642,Toro,CO,72.28,overcast clouds,4.6117,-76.0814,"Finca La María Toro, Valle del Cauca"
+646,Borda Da Mata,BR,72.77,clear sky,-22.2742,-46.1653,Hotel Village
+650,Vallenar,CL,71.22,clear sky,-28.5708,-70.7581,Humacao Bed & Breakfast
+656,Marsa Matruh,EG,70.12,clear sky,31.3525,27.2453,Beau Site
+667,Mananara,MG,72.57,clear sky,-16.1667,49.7667,Chez Roger
